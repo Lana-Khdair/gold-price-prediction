@@ -7,9 +7,7 @@ The project includes data collection, preprocessing, model training, online lear
 
 ## 🚀 Demo
 
-🎥 **UI Demo Video:**   <video controls src="Video Project 1.mp4" title="Title"></video>
-
-> 📌 If the app is not live, you can still run it locally by following the steps below.
+🎥 **UI Demo Video:**  https://drive.google.com/file/d/1ULj6APPOjkeLSyJEjbMylsTE244YyuWn/view?usp=sharing
 
 ---
 
@@ -63,6 +61,6 @@ The project includes data collection, preprocessing, model training, online lear
 git clone https://github.com/your-username/gold-price-prediction.git
 cd gold-price-prediction
 
-# Run the application
+# Run by :
 
 streamlit run app.py
