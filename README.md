@@ -4,8 +4,10 @@ An end-to-end machine learning system for predicting daily gold prices using mar
 The project includes data collection, preprocessing, model training, online learning, and deployment via a Streamlit interface.
 
 ---
-
 ## 🚀 Demo
+
+🌐 **Live Demo:**  https://mceqmf7bjp3uwtqbz3lbve.streamlit.app/
+  
 
 🎥 **UI Demo Video:**  https://drive.google.com/file/d/1ULj6APPOjkeLSyJEjbMylsTE244YyuWn/view?usp=sharing
 
